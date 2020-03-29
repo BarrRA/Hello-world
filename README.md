@@ -1,5 +1,8 @@
 # Hello-world
-my first repository
+This is my first repository
 
-Este es mi first repository
-Estoy aprendiendo coding y soy nuevo en esto
+I am learning code with python and a I am new on this
+Bye 
+Bye
+
+Que esten todos bien
